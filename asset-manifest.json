@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhavesh-kapoor/textutils/static/css/main.2784506f.css",
+    "main.js": "/Bhavesh-kapoor/textutils/static/js/main.9915a4fe.js",
+    "static/js/787.a9a1a97d.chunk.js": "/Bhavesh-kapoor/textutils/static/js/787.a9a1a97d.chunk.js",
+    "index.html": "/Bhavesh-kapoor/textutils/index.html",
+    "main.2784506f.css.map": "/Bhavesh-kapoor/textutils/static/css/main.2784506f.css.map",
+    "main.9915a4fe.js.map": "/Bhavesh-kapoor/textutils/static/js/main.9915a4fe.js.map",
+    "787.a9a1a97d.chunk.js.map": "/Bhavesh-kapoor/textutils/static/js/787.a9a1a97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.9915a4fe.js"
+  ]
+}
